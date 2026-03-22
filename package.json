@@ -1,0 +1,19 @@
+{
+  "name": "jinseo",
+  "version": "0.1.0",
+  "description": "MVP backend starter for Instagram restaurant share ingestion.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "instagram",
+    "restaurant",
+    "mvp",
+    "api"
+  ],
+  "author": "OpenAI",
+  "license": "MIT"
+}
